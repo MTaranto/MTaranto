@@ -45,5 +45,9 @@ alwaysStudying();
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h4 align="center">Visitors Count</h4>
-<p align=center><img src="https://profile-counter.glitch.me/{MTaranto}/count.svg" /></p>
+<p align=center>
+ <!-- Elfsight Visitor Counter | Untitled Visitor Counter -->
+<script src="https://static.elfsight.com/platform/platform.js" async></script>
+<div class="elfsight-app-e38eec1d-8d23-40b4-b61b-ff2711302366" data-elfsight-app-lazy></div>
+</p>
 </div>
