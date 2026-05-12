@@ -1,26 +1,21 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c710c&height=120&section=header"/>
+# Olá! Sou o Márcio Taranto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0DC821&width=435&lines=Hello+world!;My+name+is+M%C3%A1rcio+Taranto;I'm+from+Rio+de+Janeiro%2C+Brazil)](https://git.io/typing-svg)
+Sou **Analista de Sistemas Júnior** e estudante de **Engenharia de Software** (UniCesumar), focado em atuar como ponte técnica entre as necessidades lógicas de negócio e a entrega de soluções funcionais.
+
+Minha trajetória na TI é impulsionada por uma sólida bagagem de mais de 20 anos no mercado, somando **15 anos no setor comercial** e **6 anos na operação ferroviária/logística**. Essa vivência multidisciplinar me permite compreender a fundo processos corporativos, mapear fluxos operacionais e focar naquilo que realmente importa: resolver o problema do usuário final.
+
+## 🎯 Foco e Atuação
+- **Análise Funcional & Integração:** Levantamento de requisitos, mapeamento de regras de negócio e apoio na validação e testes de sistemas.
+- **Orquestração com IA:** Aplicação de Engenharia de Prompt para arquitetar e acelerar a construção de aplicações web funcionais.
+- **Fluxo de Trabalho:** Usuário nativo do ecossistema Linux (Zorin OS), priorizando organização, documentação e produtividade.
+
+## 🛠️ Conhecimentos e Tecnologias
+- **Lógica e Dados:** Estruturas lógicas em JavaScript/TypeScript e consultas SQL para apoio em integrações.
+- **Soluções Web:** Noções do ecossistema React, configuração de back-end/BaaS com **Supabase** e deploy na **Vercel**.
+
 ---
 
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRxZ3I4Ymg1a3JzNmowbGxvNXhlbnlkNzk0ajh1NHEzaWJ6cXltYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jjcvCCXrM3iCY/giphy.gif" width="100">
-
-### ___Junior Web Developer___
----
-<h3 align="right"> A little bit about me... <img src="https://raw.githubusercontent.com/MTaranto/project-medicenter-btweb/refs/heads/main/assets/images/devzero.jpg" width="50"><h3>
-
-```javascript
-const mtaranto = {
-  pronouns: "He" | "him",
-  code: [JavaScript, TypeScript, HTML, CSS, java(learning)],
-  web: [React(learning), TailWind, Styled-Components, Material UI],
-  databases: [mySQL]
-};
-
-alwaysStudying();
-```
-
-## Contact me
+## Contate-me
 
 [![LinkedIn](https://img.shields.io/badge/mtaranto-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtaranto/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/+5532991137310)
@@ -34,20 +29,8 @@ alwaysStudying();
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTaranto&layout=donut&theme=merko)](https://github.com/MTaranto/github-readme-stats)
-
 <br>
 
-<h3><em>Today's developer quotes</em><h3>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<h4 align="center">Visitors Count</h4>
-<p align=center>
- <!-- Elfsight Visitor Counter | Untitled Visitor Counter -->
-<script src="https://static.elfsight.com/platform/platform.js" async></script>
-<div class="elfsight-app-e38eec1d-8d23-40b4-b61b-ff2711302366" data-elfsight-app-lazy></div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MTaranto.MTaranto&left_color=gray&right_color=green&left_text=Profile%20Views" alt="Visitor Badge"/>
 </p>
-</div>
