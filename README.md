@@ -20,7 +20,7 @@ Minha trajetória na TI é impulsionada por uma sólida bagagem de mais de 20 an
 [![LinkedIn](https://img.shields.io/badge/mtaranto-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtaranto/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/+5532991137310)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=plastic&logo=gmail&logoColor=red)](mailto:marcio.taranto@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/MTaranto?style=social)
+![GitHub followers](https://img.shields.io/github/followers/MTaranto?tab=followers)
 
 ## Softwares & tools
 
