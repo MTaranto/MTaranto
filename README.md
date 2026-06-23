@@ -2,7 +2,7 @@
 
 Sou **Analista de Sistemas Júnior** e estudante de **Engenharia de Software**, focado em atuar como ponte técnica entre as necessidades lógicas de negócio e a entrega de soluções funcionais.
 
-Minha trajetória na TI é impulsionada por uma sólida bagagem de mais de 20 anos no mercado, somando **15 anos no setor comercial** e **6 anos na operação ferroviária/logística**. Essa vivência multidisciplinar me permite compreender a fundo processos corporativos, mapear fluxos operacionais e focar naquilo que realmente importa: resolver o problema do usuário final.
+Minha trajetória na TI é impulsionada por uma sólida bagagem de mais de 20 anos no mercado, somando **15 anos no setor comercial** e **6 anos na operação ferroviária/logística**. Essa vivência multidisciplinar me permite compreender a fundo processos corporativos, mapear fluxos operacionais e focar naquilo que realmente importa: resolver o problema do usuário final. Atualmente, estou aprendendo e desenvolvendo um projeto em Golang.
 
 ## 🚀 Projetos em Destaque
 
