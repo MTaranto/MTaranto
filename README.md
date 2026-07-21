@@ -6,7 +6,7 @@
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software**. Minha trajetória reúne mais de 20 anos de experiência profissional em áreas comerciais, operações ferroviárias e logística, o que me ajuda a transformar necessidades de negócio em requisitos, fluxos e soluções funcionais.
 
-Hoje desenvolvo projetos com foco em **Go, JavaScript, TypeScript, APIs REST, Supabase/PostgreSQL e aplicações web local-first**, utilizando inteligência artificial como apoio para análise, implementação, documentação e revisão — sempre com validação humana do resultado.
+Hoje desenvolvo projetos com foco em **Go, JavaScript, TypeScript, APIs REST, Supabase/PostgreSQL e aplicações web local-first**, utilizando inteligência artificial como apoio para análise, codificação, testes e documentação, com validação humana dos requisitos e do funcionamento da solução.
 
 Estou disponível para oportunidades profissionais e projetos freelance de escopo controlado, como landing pages, pequenas aplicações web, integrações, automações e correções de front-end.
 
@@ -29,15 +29,15 @@ Estudo de caso sobre engenharia de contexto, system prompting e organização de
 
 ## Competências
 
-- **Desenvolvimento:** Go, JavaScript, TypeScript, HTML, CSS e React
+- **Desenvolvimento:** Go, JavaScript, TypeScript, HTML, CSS e React, com codificação assistida por IA
 - **Integrações e dados:** APIs REST, JSON, Supabase, PostgreSQL, SQLite e SQL
 - **Engenharia de software:** levantamento de requisitos, regras de negócio, Git, testes, documentação e CI
-- **IA aplicada:** engenharia de contexto, decomposição de tarefas, revisão técnica e desenvolvimento assistido
+- **IA aplicada:** engenharia de contexto, decomposição de tarefas, codificação assistida, testes e validação de requisitos e funcionamento
 - **Ambiente:** Linux, TUXEDO OS, VS Code, GitHub e linha de comando
 
 ## Como trabalho
 
-Procuro entender primeiro o problema, os usuários e os critérios de aceite. Depois divido a solução em entregas pequenas, valido riscos e mantenho o escopo documentado. Quando utilizo IA para apoiar o desenvolvimento, reviso o código, testo o comportamento e assumo responsabilidade pela entrega final.
+Procuro entender primeiro o problema, os usuários e os critérios de aceite. Depois divido a solução em entregas pequenas, valido riscos e mantenho o escopo documentado. Quando utilizo IA para apoiar a análise e a codificação, verifico se a solução atende aos requisitos, testo seu comportamento e valido seu funcionamento antes de considerá-la pronta, assumindo responsabilidade pela entrega final.
 
 ## Contato
 
