@@ -42,8 +42,6 @@ Procuro entender primeiro o problema, os usuários e os critérios de aceite. De
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtaranto/)
-[![E-mail](https://img.shields.io/badge/E--mail-marcio.taranto%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:marcio.taranto@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5532991137310)
 
 ---
 
