@@ -1,5 +1,7 @@
 # Olá, sou Márcio Taranto 👋
 
+[English version](README.en.md)
+
 **Analista de Sistemas Júnior | Desenvolvimento Web, Integrações e Automação | IA aplicada ao desenvolvimento**
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia de Software**. Minha trajetória reúne mais de 20 anos de experiência profissional em áreas comerciais, operações ferroviárias e logística, o que me ajuda a transformar necessidades de negócio em requisitos, fluxos e soluções funcionais.
